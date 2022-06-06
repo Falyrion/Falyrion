@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <h3 align="center"><b>I am learning</b></h3>
 <p align="center">
     <!-- C -->
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
     <!-- C++ -->
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
     <!-- R -->
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r"/></a>
     <!-- Tensorflow -->
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
     <!-- Flask -->
     <a href="https://github.com/pallets/flask" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></a>
     <!-- HTML -->
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"/></a>
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"/></a>
     <!-- CSS -->
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/></a>
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/></a>
 </p>
 
 <h1 align="center"></h3>
