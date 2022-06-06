@@ -52,5 +52,5 @@ Here are some ideas to get you started:
     <!-- Profile views -->
     <a href="" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=falyrion&label=Profile%20views&color=0e75b6&style=flat-square" alt="falyrion"/></a>
     <!-- Follow on github -->
-    <a href="" target="blank"><img align="center" src="https://img.shields.io/github/followers/Falyrion.svg?style=social&label=Follower&maxAge=2592000" alt="falyrion"/></a>
+    <a href="" target="blank"><img align="center" src="https://img.shields.io/github/followers/Falyrion.svg?style=social&label=Followers&maxAge=2592000" alt="falyrion"/></a>
 </p>
