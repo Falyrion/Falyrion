@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-    <!-- Profile views -->
-    <img src="https://komarev.com/ghpvc/?username=falyrion&label=Profile%20views&color=0e75b6&style=flat" alt="falyrion"/>
-</p>
 <h1 align="center">Hey there👋, I'm Falyrion</h1>
 
 <h3 align="center"><b>I have a passion for</b></h3>
@@ -49,4 +45,9 @@ Here are some ideas to get you started:
     <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"/></a>
     <!-- CSS -->
     <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/></a>
+</p>
+
+<p align="left">
+    <!-- Profile views -->
+    <img src="https://komarev.com/ghpvc/?username=falyrion&label=Profile%20views&color=0e75b6&style=flat-square" alt="falyrion"/>
 </p>
