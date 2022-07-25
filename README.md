@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/></a>
 </p>
 
-<h3 align="center"><b>I am trying to improve with</b></h3>
+<h3 align="center"><b>I'm exploring</b></h3>
 <p align="center">
     <!-- C -->
     <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
